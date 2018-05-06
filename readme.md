@@ -7,7 +7,7 @@
    中途问是否继续，回车即可。参考![install-3.png](./publish/install-3.png)
 
 5. 将代码解压缩，进入代码所在目录，执行命令 scrapy crawl start_search -a search="action camera" -a expect="vantop"
-  引号部分可替换成实际需要的. 参考![uusage.png](./publish/uusage.png)
+  引号部分可替换成实际需要的. 参考![usage.png](./publish/usage.png)
   
 
 6. 匹配到第一个搜索结果后会退出程序。
