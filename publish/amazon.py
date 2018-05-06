@@ -1,4 +1,8 @@
 # -*- coding: utf-8 -*-
+# https://doc.scrapy.org/en/latest/intro/install.html
+# https://www.cnblogs.com/wuxl360/p/5567631.html
+# https://blog.csdn.net/la_vie_est_belle/article/details/79017358
+#
 #import sys, os
 #sys.path.append(os.path.abspath(os.path.realpath(os.path.dirname(__file__))))
 #sys.path.append(os.path.join(os.path.dirname(__file__), "xca_amazon"))
